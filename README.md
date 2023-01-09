@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-<a href="https://instagram.com/mohammed._.sellak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mohammed._.sellak" height="30" width="40" /></a>
+<a href="https://wa.me/qr/I6Q5NTXFMJYRO1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mohammed._.sellak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
