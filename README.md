@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [sellak.netlify.app](sellak.netlify.app)
+- 👨‍💻 All of my projects are available at [sellak.netlify.app](https://sellak.netlify.app/)
 
 - 📫 How to reach me **Mohammed._.sellak@hotmail.com**
 
