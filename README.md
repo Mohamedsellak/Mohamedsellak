@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [sellak.tech](https://sellak.tech/)
 
-- 📫 How to reach me **Mohammed._.sellak@hotmail.com**
+- 📫 How to reach me **Mohammed.sellak@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
