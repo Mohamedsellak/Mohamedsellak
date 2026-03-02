@@ -61,7 +61,7 @@ const mohammed = {
 <br/><br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsellak&layout=donut-vertical&theme=transparent&hide_border=true&title_color=a855f7&text_color=c4b5fd&langs_count=8&bg_color=00000000" width="100%" />
+  <img src="https://sellak.tech/_next/image?url=%2Fimages%2Fprofile.jpeg&w=640&q=75" width="280" style="border-radius:50%" />
 </p>
 
 </td>
@@ -322,8 +322,7 @@ const mohammed = {
 <br/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamedsellak&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd&ring_color=7c3aed&bg_color=00000000" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mohamedsellak&theme=transparent&hide_border=true&ring=7C3AED&fire=A855F7&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E9D5FF&dates=8B5CF6&sideNums=E9D5FF&background=00000000" />
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Mohamedsellak&theme=transparent&hide_border=true&ring=7C3AED&fire=A855F7&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E9D5FF&dates=8B5CF6&sideNums=E9D5FF&background=00000000" />
 </p>
 
 <p align="center">
