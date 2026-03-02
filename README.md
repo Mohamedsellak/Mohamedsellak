@@ -1,278 +1,406 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Mohammed%20Sellak&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18&descColor=c4b5fd" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:a855f7&height=220&section=header&text=Mohammed%20Sellak&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=16&descColor=e9d5ff" width="100%" />
 
 <p align="center">
-  <a href="https://sellak.tech"><img src="https://img.shields.io/badge/Portfolio-sellak.tech-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mohammed-sellak"><img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Sellak-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:Mohammed.sellak@hotmail.com"><img src="https://img.shields.io/badge/Email-Mohammed.sellak-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-  <a href="https://github.com/Mohamedsellak"><img src="https://img.shields.io/badge/GitHub-Mohamedsellak-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://sellak.tech"><img src="https://img.shields.io/badge/🌐_Portfolio-sellak.tech-7c3aed?style=for-the-badge" /></a>&nbsp;
+  <a href="https://linkedin.com/in/mohammed-sellak"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:Mohammed.sellak@hotmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Mohamedsellak"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+Intelligent+Web+%26+AI+Solutions+%F0%9F%9A%80;Securing+the+Digital+World+%F0%9F%94%90;Turning+Ideas+into+Scalable+Products+%F0%9F%92%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%E2%9C%A8+Building+Intelligent+Web+%26+AI+Solutions;%F0%9F%94%90+Securing+the+Digital+World;%F0%9F%92%A1+Turning+Ideas+into+Scalable+Products" />
 </p>
 
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
-
-```yaml
-name: Mohammed Sellak
-location: France
-roles:
-  - Full Stack Developer
-  - AI & Data Scientist
-  - Cybersecurity Enthusiast
-focus:
-  - Scalable Web Applications
-  - AI-Driven Solutions
-  - Digital Transformation
-  - Threat Detection & Pentesting
-currently:
-  building: Intelligent platforms at the intersection of AI & Cybersecurity
-  learning: Advanced LLM fine-tuning & MLOps
-fun_fact: I automate pentesting with AI — because hackers don't sleep, and neither should security.
-```
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsellak&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c4b5fd&langs_count=8" width="320" />
-
-- Passionate about building **AI-powered** and **secure** web solutions
-- Experienced in end-to-end development — from concept to deployment
-- Built platforms used by **educators across 50+ countries**
-- Published an **iOS app** on the Apple App Store
-- **10+ projects** delivered across web, mobile, AI & cybersecurity
-- Open to collaborations on **AI**, **full stack**, and **security** projects
-
-<br clear="both"/>
-
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>Frontend</b></summary>
 <br/>
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-</details>
 
-<details open>
-<summary><b>Backend</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</p>
-</details>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<details open>
-<summary><b>Databases & Big Data</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Apache_HBase-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>AI & Machine Learning</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/CNN-43853D?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLaMA_3-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>Mobile & Other</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
-</details>
-
----
-
-## 🚀 Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <table>
 <tr>
-<td width="50%">
-  <h3 align="center">🛡️ Cyber X Radar</h3>
-  <p align="center">
-    <a href="https://scan.cyberxradar.com/" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE-cyberxradar.com-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Mohamedsellak/cyber-x-radar" target="_blank">
-      <img src="https://img.shields.io/badge/CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-  <p align="center">Real-time cybersecurity platform monitoring dark web activities, data breaches, and vulnerabilities with advanced threat intelligence.</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  </p>
-</td>
-<td width="50%">
-  <h3 align="center">🤖 Pentest GPT</h3>
-  <p align="center">
-    <a href="https://github.com/Mohamedsellak/Pentest-Tools-Client" target="_blank">
-      <img src="https://img.shields.io/badge/CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-  <p align="center">AI-powered pentesting platform using fine-tuned LLaMA 3 to automate vulnerability scans with a chat-based security consultation interface.</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LLaMA_3-0467DF?style=flat-square&logo=meta&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white"/>
-  </p>
-</td>
-</tr>
+<td width="55%" valign="top">
 
-<tr>
-<td width="50%">
-  <h3 align="center">📚 Edufacilita</h3>
-  <p align="center">
-    <a href="https://edufacilita.com.br" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE-edufacilita.com.br-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Mohamedsellak/Edufacilita" target="_blank">
-      <img src="https://img.shields.io/badge/CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-  <p align="center">AI-curated math learning platform with 5,000+ questions, LaTeX rendering, and advanced search — used by educators in 50+ countries.</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MathJax-7c3aed?style=flat-square"/>
-  </p>
-</td>
-<td width="50%">
-  <h3 align="center">🌐 AI Translator</h3>
-  <p align="center">
-    <a href="https://apps.apple.com/us/app/ai-translator-go-translate/id6747006001" target="_blank">
-      <img src="https://img.shields.io/badge/APP_STORE-Download-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Mohamedsellak/Ai-Translation" target="_blank">
-      <img src="https://img.shields.io/badge/CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-  <p align="center">iOS app supporting 100+ languages with voice translation, image text recognition, document translation, and real-time conversation mode.</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Core_ML-000?style=flat-square&logo=apple&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vision_API-4285F4?style=flat-square&logo=google&logoColor=white"/>
-    <img src="https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white"/>
-  </p>
-</td>
-</tr>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">&nbsp; About Me
 
-<tr>
-<td width="50%">
-  <h3 align="center">📈 NextTrade</h3>
-  <p align="center">
-    <a href="https://github.com/Mohamedsellak/webTrade-client" target="_blank">
-      <img src="https://img.shields.io/badge/CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-  <p align="center">Professional crypto & stock trading platform with real-time market data, advanced charting, portfolio management, and automated strategies.</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  </p>
+<br/>
+
+```js
+const mohammed = {
+  location: "France 🇫🇷",
+  roles: ["Full Stack Developer", "AI Engineer",
+          "Cybersecurity Enthusiast"],
+  currentFocus: "AI × Cybersecurity",
+  experience: "1+ Year",
+  projects: "10+ Delivered",
+  motto: "Hackers don't sleep, neither does security."
+};
+```
+
+<br/>
+
+🔭 &nbsp;Building intelligent platforms at the **AI × Security** intersection
+
+🚀 &nbsp;Published an **iOS app** on the Apple App Store
+
+🌍 &nbsp;Shipped products used in **50+ countries**
+
+🧠 &nbsp;Currently diving deep into **LLM fine-tuning & MLOps**
+
+💬 &nbsp;Ask me about **Full Stack, AI, or Cybersecurity**
+
+⚡ &nbsp;Open to **freelance** & **collaboration** opportunities
+
 </td>
-<td width="50%">
-  <h3 align="center">🛍️ TechStore</h3>
-  <p align="center">
-    <a href="https://teechstore.netlify.app/" target="_blank">
-      <img src="https://img.shields.io/badge/LIVE-teechstore.netlify.app-7c3aed?style=for-the-badge&logo=netlify&logoColor=white"/>
-    </a>
-    <a href="https://github.com/Mohamedsellak/COD-Store" target="_blank">
-      <img src="https://img.shields.io/badge/CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-  </p>
-  <p align="center">Premium e-commerce marketplace for technology products serving 50,000+ customers across 15+ countries with AR product visualization.</p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white"/>
-  </p>
+<td width="45%" valign="top">
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedsellak&layout=donut-vertical&theme=transparent&hide_border=true&title_color=a855f7&text_color=c4b5fd&langs_count=8&bg_color=00000000" width="100%" />
+</p>
+
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📊 GitHub Analytics
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- WHAT I DO -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamedsellak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=c4b5fd&ring_color=7c3aed" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mohamedsellak&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=C4B5FD&dates=8B5CF6&sideNums=C4B5FD" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
+<h2 align="center">⚡ What I Do</h2>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🖥️-0d1117?style=for-the-badge&labelColor=0d1117" /><br/>
+<b>Full Stack Dev</b><br/>
+<sub>End-to-end web apps with<br/>modern frameworks & APIs</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖-0d1117?style=for-the-badge&labelColor=0d1117" /><br/>
+<b>AI & ML</b><br/>
+<sub>LLMs, NLP, Deep Learning<br/>& intelligent automation</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🛡️-0d1117?style=for-the-badge&labelColor=0d1117" /><br/>
+<b>Cybersecurity</b><br/>
+<sub>Threat detection, pentesting<br/>& digital risk assessment</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📱-0d1117?style=for-the-badge&labelColor=0d1117" /><br/>
+<b>Mobile Dev</b><br/>
+<sub>Native iOS apps with<br/>Swift & Core ML</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<br/>
+
+<h4 align="center">🎨 Frontend</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,bootstrap,sass,html,css&theme=dark" /></a>
+</p>
+
+<h4 align="center">⚙️ Backend</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php,laravel&theme=dark" /></a>
+</p>
+
+<h4 align="center">🗄️ Databases & Infrastructure</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,supabase,docker,linux,git&theme=dark" /></a>
+</p>
+
+<h4 align="center">🧠 AI / ML & Mobile</h4>
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,swift&theme=dark" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LLaMA_3-0467DF?style=for-the-badge&logo=meta&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/NLP-7c3aed?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/CNN-43853D?style=for-the-badge&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Core_ML-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117" />
+</p>
+
+<h4 align="center">🗃️ Big Data</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/HBase-D22128?style=for-the-badge&logo=apache&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white&labelColor=0d1117" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FEATURED PROJECTS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">
+  <img src="https://img.shields.io/badge/🛡️-0d1117?style=flat-square&labelColor=0d1117" />
+  Cyber X Radar
+</h3>
+<p align="center">
+  <em>Advanced Threat Detection Platform</em>
+</p>
+<br/>
+<p align="center">
+  <a href="https://scan.cyberxradar.com/"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-7c3aed?style=for-the-badge&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Mohamedsellak/cyber-x-radar"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p align="center"><sub>Real-time cybersecurity platform monitoring dark web activities, data breaches, and vulnerabilities with advanced threat intelligence and automated incident response.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">
+  <img src="https://img.shields.io/badge/🤖-0d1117?style=flat-square&labelColor=0d1117" />
+  Pentest GPT
+</h3>
+<p align="center">
+  <em>AI-Powered Pentesting Platform</em>
+</p>
+<br/>
+<p align="center">
+  <a href="https://github.com/Mohamedsellak/Pentest-Tools-Client"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p align="center"><sub>AI-powered pentesting platform leveraging fine-tuned LLaMA 3 to automate vulnerability scans with a chat-based security consultation interface.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/LLaMA_3-0467DF?style=flat-square&logo=meta&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white&labelColor=0d1117"/>
+</p>
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">
+  <img src="https://img.shields.io/badge/📚-0d1117?style=flat-square&labelColor=0d1117" />
+  Edufacilita
+</h3>
+<p align="center">
+  <em>AI-Powered Math Learning Platform</em>
+</p>
+<br/>
+<p align="center">
+  <a href="https://edufacilita.com.br"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-7c3aed?style=for-the-badge&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Mohamedsellak/Edufacilita"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p align="center"><sub>5,000+ AI-curated mathematics questions with LaTeX rendering and advanced search. Used by educators across 50+ countries.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/MathJax-7c3aed?style=flat-square&labelColor=0d1117"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">
+  <img src="https://img.shields.io/badge/🌐-0d1117?style=flat-square&labelColor=0d1117" />
+  AI Translator
+</h3>
+<p align="center">
+  <em>Go Translate — iOS App</em>
+</p>
+<br/>
+<p align="center">
+  <a href="https://apps.apple.com/us/app/ai-translator-go-translate/id6747006001"><img src="https://img.shields.io/badge/📲_APP_STORE-0D96F6?style=for-the-badge&logo=apple&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Mohamedsellak/Ai-Translation"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p align="center"><sub>100+ languages with voice translation, image text recognition, document translation, and real-time conversation mode.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Core_ML-000?style=flat-square&logo=apple&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Vision_API-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/iOS-000?style=flat-square&logo=apple&logoColor=white&labelColor=0d1117"/>
+</p>
+</td>
+</tr>
+
+<tr><td colspan="2"><br/></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">
+  <img src="https://img.shields.io/badge/📈-0d1117?style=flat-square&labelColor=0d1117" />
+  NextTrade
+</h3>
+<p align="center">
+  <em>Advanced Trading Platform</em>
+</p>
+<br/>
+<p align="center">
+  <a href="https://github.com/Mohamedsellak/webTrade-client"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p align="center"><sub>Professional crypto & stock trading with real-time data, advanced charting, portfolio management, and automated strategies.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=0d1117"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">
+  <img src="https://img.shields.io/badge/🛍️-0d1117?style=flat-square&labelColor=0d1117" />
+  TechStore
+</h3>
+<p align="center">
+  <em>Premium Technology Marketplace</em>
+</p>
+<br/>
+<p align="center">
+  <a href="https://teechstore.netlify.app/"><img src="https://img.shields.io/badge/▶_LIVE_DEMO-7c3aed?style=for-the-badge&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/Mohamedsellak/COD-Store"><img src="https://img.shields.io/badge/SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+<p align="center"><sub>Premium e-commerce serving 50,000+ customers across 15+ countries with AR visualization, Stripe payments & analytics.</sub></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white&labelColor=0d1117"/>
+</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB ANALYTICS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<br/>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamedsellak&show_icons=true&theme=transparent&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c4b5fd&ring_color=7c3aed&bg_color=00000000" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Mohamedsellak&theme=transparent&hide_border=true&ring=7C3AED&fire=A855F7&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=E9D5FF&dates=8B5CF6&sideNums=E9D5FF&background=00000000" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedsellak&bg_color=0d1117&color=7c3aed&line=7c3aed&point=c4b5fd&area=true&area_color=7c3aed&hide_border=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamedsellak&bg_color=00000000&color=a855f7&line=7c3aed&point=e9d5ff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Timeline" width="98%" />
 </p>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TROPHIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedsellak&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
----
+<h2 align="center">🏆 Achievements</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohamedsellak&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamedsellak/Mohamedsellak/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamedsellak/Mohamedsellak/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Mohamedsellak/Mohamedsellak/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamedsellak&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Mohamedsellak?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/Mohamedsellak?style=for-the-badge&color=7c3aed&labelColor=0d1117&logo=github" />
 </p>
 
-<p align="center">
-  <b>Let's build something intelligent together!</b><br/>
-  <sub>Open to freelance, collaboration, and full-time opportunities.</sub>
-</p>
+<br/>
 
-<p align="center">
-  <a href="https://sellak.tech">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-sellak.tech-7c3aed?style=for-the-badge" />
-  </a>
-</p>
+<div align="center">
+  <h3>💡 Let's build something intelligent together</h3>
+  <p>
+    <sub>Open to <b>freelance</b>, <b>collaboration</b>, and <b>full-time opportunities</b></sub>
+  </p>
+  <br/>
+  <a href="https://sellak.tech"><img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-sellak.tech-a855f7?style=for-the-badge&labelColor=0d1117" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:Mohammed.sellak@hotmail.com"><img src="https://img.shields.io/badge/📬_Get_In_Touch-Email_Me-a855f7?style=for-the-badge&labelColor=0d1117" /></a>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" width="100%" />
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7c3aed,100:a855f7&height=120&section=footer" width="100%" />
