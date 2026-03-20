@@ -19,7 +19,7 @@
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://sellak.tech/_next/image?url=%2Fimages%2Fprofile.JPG&w=640&q=75" width="100%" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100%" />
 
 <table>
 <tr>
@@ -61,7 +61,7 @@ const mohammed = {
 <br/><br/>
 
 <p align="center">
-  <img src="https://wsrv.nl/?url=https://sellak.tech/images/profile.jpeg&w=280&h=280&fit=cover&mask=circle&maxage=7d" width="280" style="border: 4px solid #7c3aed; border-radius: 50%;" alt="Mohammed Sellak" />
+  <img src="https://wsrv.nl/?url=https://sellak.tech/images/profile.JPG&w=280&h=280&fit=cover&mask=circle&maxage=7d" width="280" style="border: 4px solid #7c3aed; border-radius: 50%;" alt="Mohammed Sellak" />
 </p>
 
 </td>
