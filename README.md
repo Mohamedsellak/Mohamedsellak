@@ -19,7 +19,7 @@
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
+<img src="https://sellak.tech/_next/image?url=%2Fimages%2Fprofile.JPG&w=640&q=75" width="100%" />
 
 <table>
 <tr>
