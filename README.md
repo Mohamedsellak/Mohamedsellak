@@ -25,7 +25,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28">&nbsp; About Me
+### <img src="https://sellak.tech/_next/image?url=%2Fimages%2Fprofile.JPG" width="28">&nbsp; About Me
 
 <br/>
 
