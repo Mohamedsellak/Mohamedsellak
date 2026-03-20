@@ -19,7 +19,7 @@
 <!-- ABOUT ME -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70%" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80%" />
 
 <table>
 <tr>
